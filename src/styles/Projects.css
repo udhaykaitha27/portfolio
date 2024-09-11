@@ -1,0 +1,47 @@
+#projects {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  #projects h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  #projects ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #projects ul li {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #projects ul li h3 {
+    font-size: 1.5rem;
+  }
+  
+  #projects ul li p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  #projects ul li a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  #projects ul li a:hover {
+    text-decoration: underline;
+  }
+  
